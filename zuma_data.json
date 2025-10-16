@@ -1,0 +1,677 @@
+{
+    "data": {
+        "listingDetails": {
+            "listingId": "69200045",
+            "administrationFees": null,
+            "analyticsTaxonomy": {
+                "areaName": "Oxford",
+                "bedsMax": 2,
+                "bedsMin": 2,
+                "branchId": 3628,
+                "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+                "branchName": "Hamptons - Oxford Sales",
+                "brandName": "Hamptons",
+                "chainFree": false,
+                "companyId": 1612,
+                "countryCode": "gb",
+                "countyAreaName": "Oxfordshire",
+                "currencyCode": "GBP",
+                "displayAddress": "Davenant Road, Oxford OX2",
+                "furnishedState": "",
+                "groupId": 8,
+                "hasEpc": true,
+                "hasFloorplan": true,
+                "incode": "8BY",
+                "isRetirementHome": false,
+                "isSharedOwnership": false,
+                "listingCondition": "pre-owned",
+                "listingId": 69200045,
+                "listingsCategory": "residential",
+                "listingStatus": "sale_under_offer",
+                "location": "Oxford",
+                "memberType": "agent",
+                "numBaths": 1,
+                "numBeds": 2,
+                "numImages": 18,
+                "numRecepts": 1,
+                "outcode": "OX2",
+                "postalArea": "OX",
+                "postTownName": "Oxford",
+                "priceActual": 475000,
+                "price": 475000,
+                "priceMax": 475000,
+                "priceMin": 475000,
+                "priceQualifier": "offers_over",
+                "propertyHighlight": "Apartment|Local Amenities",
+                "propertyType": "flat",
+                "regionName": "South East England",
+                "section": "for-sale",
+                "sizeSqFeet": "672",
+                "tenure": "share_of_freehold",
+                "uuid": "9548949E-5CDC-11F0-B32F-8B45DB235FAD",
+                "zindex": 1516806,
+                "__typename": "ListingAnalyticsTaxonomy"
+            },
+            "detailedDescription": "This modern ground-floor garden apartment, architecturally designed and built in a chalet style, is located on a prestigious city side street near both Port Meadow and the Summertown shops. This lovely property features two double bedrooms, both with built-in wardrobes and chic interiors, and an open plan dual aspect living space with large windows which fill the space with natural light. The modern interior is complemented by beautiful wooden floors which form part of the zoned electric underfloor heating throughout. There are French doors from both the living space and main bedroom leading out to the rear garden.<br><br><strong>Outside</strong><br><br>Unusual for such a property, a private paved garden can be found at the rear enclosed by timber fencing, ideal for alfresco dining. There is electricity supply at each end. The property has its own allocated parking at the side, and the professionally maintained communal front garden also contains a bike store.<br><br><strong>Situation</strong><br><br>Summertown, a sought-after North Oxford suburb, is conveniently situated less than 2 miles from the bustling city centre of Oxford. This vibrant neighbourhood boasts a variety of shops, restaurants, and amenities, including two well-equipped gyms - the Ferry Leisure Centre and Nuffield Health &amp; Racquets Club.<br><br>Families are drawn to Summertown for its close proximity to some of North Oxford's most prestigious schools, making it an ideal location for those seeking a high-quality education for their children. Oxford has frequent bus services running along the Woodstock and Banbury Roads, providing easy access to the city centre. Additionally, residents can take advantage of regular train services to London from both Oxford's mainline station just 3 miles away and, closer still, Oxford Parkway, conveniently located just 1.5 miles away.<br><br><em> Property Ref Number: </em><br><br>Ham-0634<br><br><strong>Additional Information</strong><br><br>Local Authority: Oxford City Council<br>Council Tax Band: D<br>Service Charge Approx. \u00a31500 Per Annum per flat<br>Peppercorn Ground Rent",
+            "metaTitle": "Davenant Road, Oxford OX2, 2 bed flat for sale, \u00a3475,000 - Zoopla",
+            "metaDescription": "2 bed flat for sale in Davenant Road, Oxford OX2, selling for \u00a3475,000 from Hamptons - Oxford Sales. See property details on Zoopla or browse all our range of properties in Davenant Road, Oxford OX2.",
+            "category": "residential",
+            "listingUris": {
+                "detail": "/for-sale/details/69200045/",
+                "__typename": "ListingUris",
+                "contact": "/for-sale/contact/69200045/"
+            },
+            "title": "2 bed flat for sale",
+            "publicationStatus": "Live",
+            "counts": {
+                "numBedrooms": 2,
+                "numBathrooms": 1,
+                "numLivingRooms": 1,
+                "__typename": "RoomCount"
+            },
+            "viewCount": {
+                "viewCount30day": 0,
+                "__typename": "ViewCount"
+            },
+            "ntsInfo": [
+                {
+                    "title": "Tenure",
+                    "key": "tenure",
+                    "value": "Share of freehold",
+                    "description": "<span>Knowing the tenure of the property is important because it affects your rights to use the property and the costs of ownership.</span><span><b>Freehold</b> means you\u2019ll own the property and the land it's built on. You'll usually be responsible for the maintenance of the property and have more freedom to alter it.</span><span>For flats and maisonettes, the freehold is sometimes shared with other properties in the same building. This is known as a share of freehold.</span><span><b>Leasehold</b> means you'll have the right to live in the home for a set amount of years (specified in the lease). The landlord (the freeholder) owns the land, and if the lease runs out, ownership of the property will go back to them.</span><span>Properties with short lease lengths (80 years or less) can decline in value as they are less appealing. Mortgage companies may also be less willing to lend on it. You can extend the lease but costs can be expensive, particularly for those properties with less than 80 years left on the lease. You should confirm the length of the lease and factor in these issues when buying a leasehold property. You're also likely to have to pay an annual amount for ground rent and services charges which can be subject to change. It is good practice to check additional leasehold costs that will apply to the property and factor this into your budget considerations.</span><span>Shared ownership is a form of leasehold in which you buy a percentage of the property and pay rent on the share you do not own. You may be able to buy the remaining share at an extra cost. When you wish to sell the property, you may need permission to do so.</span><span><b>Commonhold</b> is a type of freehold ownership for a property that's within a development. A commonhold or residents\u2019 association owns andmanages the common parts of the property (like stairs and hallways). You'll need to join the commonhold association and contribute towards maintaining the development. It is good practice to check additional costs that will apply to the property and factor this into your budget considerations.</span><span><b>Non-traditional</b><br/>When you buy a park home, you own the building itself, but not the land it sits on. Instead, you'll rent the pitch from the site owner. There will be annual fees to pay to the site owner and it is important to know how often these charges are reviewed.</span><span>When you buy a houseboat, you own the boat itself, but there will also be boat licenses and mooring fees to pay. It is important to know how often these charges are reviewed. </span>",
+                    "__typename": "NtsInfoItem"
+                },
+                {
+                    "title": "Service charge",
+                    "key": "service_charge",
+                    "value": "\u00a31,500 per year",
+                    "description": "<h2>What it is</h2><span>A service charge is a regular payment for maintaining shared areas of a building. For example, lighting, heating, cleaning, building insurance and maintenance work.</span><span>Service charges are common for leasehold properties. But, some newer freehold homes may also have service charges too.</span><h2>Why it\u2019s important</h2><span>Service charges can increase. You may also need to cover maintenance costs for future works that are not yet known. You should factor these costs into your budget.</span><span>Contact the agent to check this property\u2019s historic and anticipated changes to service charges.</span>",
+                    "__typename": "NtsInfoItem"
+                },
+                {
+                    "title": "Council tax band",
+                    "key": "council_tax_band",
+                    "value": "D",
+                    "description": "<span>Council tax is payable on all domestic properties. The amount you pay depends on the tax band. You can check the charges for each tax band online via the following websites:</span><span>England and Wales - <a href='https://www.gov.uk/council-tax-bands' target='_blank'>https://www.gov.uk/council-tax-bands</a></span><span>Scotland - <a href='https://www.saa.gov.uk/' target='_blank'>https://www.saa.gov.uk</a></span><span>You may have personal circumstances which mean that you pay a reduced rate. You can get more information from the local council.</span>",
+                    "__typename": "NtsInfoItem"
+                },
+                {
+                    "title": "Commonhold details",
+                    "key": "commonhold_details",
+                    "value": "Not available",
+                    "description": null,
+                    "__typename": "NtsInfoItem"
+                }
+            ],
+            "additionalNtsInfo": [
+                {
+                    "title": "Water",
+                    "key": "water",
+                    "value": "Ask agent",
+                    "description": "It is important to understand the nature of the water supply. For instance, if the water source originates from a private well that needs periodic maintenance or adhering to specific water quality standards, additional costs may apply.",
+                    "__typename": "AdditionalNtsInfoItem"
+                },
+                {
+                    "title": "Heating",
+                    "key": "heating",
+                    "value": "Ask agent",
+                    "description": "It is important to understand the nature of the heating supply. For instance, if the property is not linked to the mains gas line and instead relies on an LPG heating system, requires thorough acknowledgment and evaluation.",
+                    "__typename": "AdditionalNtsInfoItem"
+                },
+                {
+                    "title": "Electricity",
+                    "key": "electricity",
+                    "value": "Ask agent",
+                    "description": "It is important to understand the nature of the electricity supply. For instance, if the property operates independent of the national grid and relies on a generator for power, requires thorough acknowledgment and evaluation.",
+                    "__typename": "AdditionalNtsInfoItem"
+                },
+                {
+                    "title": "Sewerage",
+                    "key": "sewerage",
+                    "value": "Ask agent",
+                    "description": "It is important to understand the nature of the sewerage supply. For instance, septic tanks and cesspits may require maintenance, and costs will vary between providers. Septic tanks may also have registration and record keeping requirements.",
+                    "__typename": "AdditionalNtsInfoItem"
+                },
+                {
+                    "title": "Broadband",
+                    "key": "broadband",
+                    "value": "Ask agent",
+                    "description": "It is important to understand the nature of the broadband supply. For instance, where a broadband connection is not available, additional costs may apply.",
+                    "__typename": "AdditionalNtsInfoItem"
+                },
+                {
+                    "title": "Broadband speed",
+                    "key": "broadband_speed",
+                    "value": "Ask agent",
+                    "description": "The broadband speed you can expect you receive in this property. Use Ofcom's broadband checker for more info - https://checker.ofcom.org.uk/en-gb/broadband-coverage.",
+                    "__typename": "AdditionalNtsInfoItem"
+                },
+                {
+                    "title": "Mobile coverage",
+                    "key": "mobile_coverage",
+                    "value": "Ask agent",
+                    "description": "The mobile coverage and signal strength you can expect to receive at this property. Use Ofcom's mobile coverage checker for more info - https://checker.ofcom.org.uk/en-gb/mobile-coverage",
+                    "__typename": "AdditionalNtsInfoItem"
+                },
+                {
+                    "title": "Parking",
+                    "key": "parking",
+                    "value": "Ask agent",
+                    "description": "It is important to understand the parking availability for a property. For instance, additional costs may apply where parking permits are required.",
+                    "__typename": "AdditionalNtsInfoItem"
+                }
+            ],
+            "derivedEPC": {
+                "efficiencyRating": "C",
+                "__typename": "DerivedEPC"
+            },
+            "branch": {
+                "branchId": "3628",
+                "address": "257 Banbury Road, Oxford",
+                "branchDetailsUri": "/find-agents/branch/hamptons-oxford-sales-oxford-3628/",
+                "branchResultsUri": "/for-sale/branch/hamptons-oxford-sales-oxford-3628/",
+                "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+                "phone": "01865 680572",
+                "name": "Hamptons - Oxford Sales",
+                "postcode": "OX2 7HN",
+                "memberType": "agent",
+                "attributes": {
+                    "embeddedContentIsBlacklisted": false,
+                    "showOverseasListingExactLocation": false,
+                    "__typename": "BranchAttributes"
+                },
+                "profile": {
+                    "details": "<div><strong>Established in 1869, Hamptons has 85+ branches in the UK and partners with international agents across the globe, marketing a wide range of properties from flats to grand country estates.<br /><br /></strong></div>\r\n<div><strong>While we are national estate agents, our local offices provide in-depth knowledge of each area, ensuring you receive expert advice with a personal touch.<br /><br />As The Home Experts, we're here to guide you every step of the way. Whether you're selling, or letting, our reach allows us to connect your property with the right buyers or tenants, offering expertise and service that makes all the difference. Our specialists in compliance, property management, and market research are on hand to make the process as smooth as possible.<br /><br />It's a journey - we'll get you there.</strong></div>",
+                    "__typename": "AgentProfile"
+                },
+                "__typename": "AgentBranch"
+            },
+            "__typename": "ListingData",
+            "adTargeting": {
+                "areaName": "Oxford",
+                "bedsMax": 2,
+                "bedsMin": 2,
+                "branchId": 3628,
+                "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+                "branchName": "Hamptons - Oxford Sales",
+                "brandName": "Hamptons",
+                "chainFree": false,
+                "companyId": 1612,
+                "countryCode": "gb",
+                "countyAreaName": "Oxfordshire",
+                "currencyCode": "GBP",
+                "displayAddress": "Davenant Road, Oxford OX2",
+                "furnishedState": "",
+                "groupId": 8,
+                "hasEpc": true,
+                "hasFloorplan": true,
+                "incode": "8BY",
+                "isRetirementHome": false,
+                "isSharedOwnership": false,
+                "listingCondition": "pre-owned",
+                "listingId": 69200045,
+                "listingsCategory": "residential",
+                "listingStatus": "sale_under_offer",
+                "location": "Oxford",
+                "memberType": "agent",
+                "numBaths": 1,
+                "numBeds": 2,
+                "numImages": 18,
+                "numRecepts": 1,
+                "outcode": "OX2",
+                "postalArea": "OX",
+                "postTownName": "Oxford",
+                "priceActual": 475000,
+                "price": 475000,
+                "priceMax": 475000,
+                "priceMin": 475000,
+                "priceQualifier": "offers_over",
+                "propertyHighlight": "Apartment|Local Amenities",
+                "propertyType": "flat",
+                "regionName": "South East England",
+                "section": "for-sale",
+                "sizeSqFeet": "672",
+                "tenure": "share_of_freehold",
+                "uuid": "9548949E-5CDC-11F0-B32F-8B45DB235FAD",
+                "zindex": 1516806,
+                "__typename": "ListingAnalyticsTaxonomy"
+            },
+            "analyticsEcommerce": {
+                "brand": "Hamptons",
+                "category": "for-sale/resi/agent/pre-owned/gb",
+                "id": 69200045,
+                "name": "FS_Contact",
+                "price": 1,
+                "quantity": 1,
+                "variant": "premium plus",
+                "__typename": "ListingAnalyticsEcommerce"
+            },
+            "pricing": {
+                "isAuction": false,
+                "qualifier": "offers_over",
+                "priceQualifierLabel": "Offers over",
+                "internalValue": 475000,
+                "rentFrequencyLabel": null,
+                "valueLabel": "\u00a3475,000",
+                "currencyCode": "GBP",
+                "originalCurrencyPrice": null,
+                "pricePerFloorAreaUnit": {
+                    "internalValue": 707,
+                    "rentFrequencyLabel": null,
+                    "unitsLabel": "sq. ft",
+                    "label": "\u00a3707/sq. ft",
+                    "valueLabel": "\u00a3707",
+                    "currencyCode": null,
+                    "__typename": "PriceInfo"
+                },
+                "alternateRentFrequencyPrice": null,
+                "__typename": "ListingPricing",
+                "label": "\u00a3475,000"
+            },
+            "epc": {
+                "image": [
+                    {
+                        "caption": "EPC",
+                        "filename": "5a7b3d032e383c14b6b5d6d6c6d62d27a6f297bc.png",
+                        "__typename": "Media"
+                    }
+                ],
+                "pdf": null,
+                "__typename": "EPC"
+            },
+            "features": {
+                "bullets": [
+                    "Open Plan Kitchen Sitting/Dining Room",
+                    "Two Bedrooms",
+                    "Family Bathroom",
+                    "Courtyard Garden",
+                    "Parking"
+                ],
+                "flags": {
+                    "furnishedState": null,
+                    "studentFriendly": false,
+                    "tenure": {
+                        "name": "share_of_freehold",
+                        "label": "Share of freehold",
+                        "__typename": "Label"
+                    },
+                    "availableFromDate": null,
+                    "__typename": "FeatureFlag"
+                },
+                "highlights": [
+                    {
+                        "description": null,
+                        "label": "Apartment",
+                        "__typename": "FeatureHighlight"
+                    },
+                    {
+                        "description": null,
+                        "label": "Local Amenities",
+                        "__typename": "FeatureHighlight"
+                    }
+                ],
+                "__typename": "Features"
+            },
+            "floorPlan": {
+                "image": [
+                    {
+                        "filename": "f694dd796c06e2d3c2dfc08f8e775651387ba909.jpg",
+                        "caption": "Fp",
+                        "__typename": "Media"
+                    }
+                ],
+                "links": null,
+                "pdf": null,
+                "__typename": "FloorPlan"
+            },
+            "floorArea": {
+                "label": "672 sq. ft",
+                "range": null,
+                "units": "sq_feet",
+                "unitsLabel": "sq. ft",
+                "value": 672,
+                "__typename": "FloorArea"
+            },
+            "content": {
+                "virtualTour": null,
+                "floorPlan": [
+                    {
+                        "original": "https://lc.zoocdn.com/f694dd796c06e2d3c2dfc08f8e775651387ba909.jpg",
+                        "caption": "Fp",
+                        "url": null,
+                        "filename": "f694dd796c06e2d3c2dfc08f8e775651387ba909.jpg",
+                        "type": "floor_plan",
+                        "__typename": "Media"
+                    }
+                ],
+                "audioTour": null,
+                "__typename": "MediaContent"
+            },
+            "propertyImage": [
+                {
+                    "original": "https://lc.zoocdn.com/3d1fb5c77a2bcdd198a88ddd778e655ffd61ed09.jpg",
+                    "caption": null,
+                    "url": null,
+                    "filename": "3d1fb5c77a2bcdd198a88ddd778e655ffd61ed09.jpg",
+                    "type": "property_image",
+                    "__typename": "Media"
+                },
+                {
+                    "original": "https://lc.zoocdn.com/b8070f983c17cf6e511568070205b9e4b6573493.jpg",
+                    "caption": null,
+                    "url": null,
+                    "filename": "b8070f983c17cf6e511568070205b9e4b6573493.jpg",
+                    "type": "property_image",
+                    "__typename": "Media"
+                },
+                {
+                    "original": "https://lc.zoocdn.com/1b4c7b60f543c62a1537c70ec42c2810466c73f2.jpg",
+                    "caption": null,
+                    "url": null,
+                    "filename": "1b4c7b60f543c62a1537c70ec42c2810466c73f2.jpg",
+                    "type": "property_image",
+                    "__typename": "Media"
+                },
+                {
+                    "original": "https://lc.zoocdn.com/8eaa258d66026b71a663af41324f340d6f82de97.jpg",
+                    "caption": null,
+                    "url": null,
+                    "filename": "8eaa258d66026b71a663af41324f340d6f82de97.jpg",
+                    "type": "property_image",
+                    "__typename": "Media"
+                },
+                {
+                    "original": "https://lc.zoocdn.com/6c633757d6ae0488169e4a242c84a104af8fc280.jpg",
+                    "caption": null,
+                    "url": null,
+                    "filename": "6c633757d6ae0488169e4a242c84a104af8fc280.jpg",
+                    "type": "property_image",
+                    "__typename": "Media"
+                },
+                {
+                    "original": "https://lc.zoocdn.com/637eb5f34240b8b02cb0973104ee7e3334d373e8.jpg",
+                    "caption": null,
+                    "url": null,
+                    "filename": "637eb5f34240b8b02cb0973104ee7e3334d373e8.jpg",
+                    "type": "property_image",
+                    "__typename": "Media"
+                },
+                {
+                    "original": "https://lc.zoocdn.com/96d1a713f63308777df07af1a4d56653df786cfa.jpg",
+                    "caption": null,
+                    "url": null,
+                    "filename": "96d1a713f63308777df07af1a4d56653df786cfa.jpg",
+                    "type": "property_image",
+                    "__typename": "Media"
+                },
+                {
+                    "original": "https://lc.zoocdn.com/5e7b4c06ca44679fe174f0fb20bb41d52be406ee.jpg",
+                    "caption": null,
+                    "url": null,
+                    "filename": "5e7b4c06ca44679fe174f0fb20bb41d52be406ee.jpg",
+                    "type": "property_image",
+                    "__typename": "Media"
+                },
+                {
+                    "original": "https://lc.zoocdn.com/6c5741e094e7838655a1046febeb56ba899e61fc.jpg",
+                    "caption": null,
+                    "url": null,
+                    "filename": "6c5741e094e7838655a1046febeb56ba899e61fc.jpg",
+                    "type": "property_image",
+                    "__typename": "Media"
+                },
+                {
+                    "original": "https://lc.zoocdn.com/0a3177dbb0ba8005dbde22194f5ff2bb089fc717.jpg",
+                    "caption": null,
+                    "url": null,
+                    "filename": "0a3177dbb0ba8005dbde22194f5ff2bb089fc717.jpg",
+                    "type": "property_image",
+                    "__typename": "Media"
+                },
+                {
+                    "original": "https://lc.zoocdn.com/14f983dee11c5c9fa5e04eb7b4fe113eb83ec0ee.jpg",
+                    "caption": null,
+                    "url": null,
+                    "filename": "14f983dee11c5c9fa5e04eb7b4fe113eb83ec0ee.jpg",
+                    "type": "property_image",
+                    "__typename": "Media"
+                },
+                {
+                    "original": "https://lc.zoocdn.com/7757c6e475c7f9e2a4da057b51c0d6884b0f50f0.jpg",
+                    "caption": null,
+                    "url": null,
+                    "filename": "7757c6e475c7f9e2a4da057b51c0d6884b0f50f0.jpg",
+                    "type": "property_image",
+                    "__typename": "Media"
+                },
+                {
+                    "original": "https://lc.zoocdn.com/f4ef6fb181520e125f018e1acfe4265891295c0d.jpg",
+                    "caption": null,
+                    "url": null,
+                    "filename": "f4ef6fb181520e125f018e1acfe4265891295c0d.jpg",
+                    "type": "property_image",
+                    "__typename": "Media"
+                },
+                {
+                    "original": "https://lc.zoocdn.com/0e27c80a1e7042ade114f1939d7cd9ae976a9507.jpg",
+                    "caption": null,
+                    "url": null,
+                    "filename": "0e27c80a1e7042ade114f1939d7cd9ae976a9507.jpg",
+                    "type": "property_image",
+                    "__typename": "Media"
+                },
+                {
+                    "original": "https://lc.zoocdn.com/3f0276c64e4b859ad5a0bedb0b8089480ac5295c.jpg",
+                    "caption": null,
+                    "url": null,
+                    "filename": "3f0276c64e4b859ad5a0bedb0b8089480ac5295c.jpg",
+                    "type": "property_image",
+                    "__typename": "Media"
+                },
+                {
+                    "original": "https://lc.zoocdn.com/6c2e9124f22c646512bdede755527df65b8e053d.jpg",
+                    "caption": null,
+                    "url": null,
+                    "filename": "6c2e9124f22c646512bdede755527df65b8e053d.jpg",
+                    "type": "property_image",
+                    "__typename": "Media"
+                },
+                {
+                    "original": "https://lc.zoocdn.com/11cf1ee3558e167f76bcb3f9d5fe62002c85a976.jpg",
+                    "caption": null,
+                    "url": null,
+                    "filename": "11cf1ee3558e167f76bcb3f9d5fe62002c85a976.jpg",
+                    "type": "property_image",
+                    "__typename": "Media"
+                },
+                {
+                    "original": "https://lc.zoocdn.com/07fa5b1c6a375011f94522a43e90c840ea901f7d.jpg",
+                    "caption": null,
+                    "url": null,
+                    "filename": "07fa5b1c6a375011f94522a43e90c840ea901f7d.jpg",
+                    "type": "property_image",
+                    "__typename": "Media"
+                }
+            ],
+            "additionalLinks": [
+                {
+                    "original": "https://hamptons.my.salesforce.com/sfc/p/8d000005xawC/a/Q50000059jz7/xtTcb52FfiAePPf6KRtXScRDKmxHStVKGhBZN9delu0",
+                    "caption": "Brochure",
+                    "url": null,
+                    "filename": null,
+                    "type": "brochure",
+                    "__typename": "Media"
+                }
+            ],
+            "location": {
+                "coordinates": {
+                    "isApproximate": false,
+                    "latitude": 51.785374,
+                    "longitude": -1.276917,
+                    "__typename": "LocationCoordinates"
+                },
+                "postalCode": "OX2 8BY",
+                "streetName": "Davenant Road",
+                "countryCode": "GB",
+                "propertyNumberOrName": "Flat 4, 54",
+                "townOrCity": "Oxford",
+                "__typename": "ListingLocation",
+                "uprn": "10013983744"
+            },
+            "embeddedContent": {
+                "videos": null,
+                "tours": null,
+                "links": null,
+                "__typename": "EmbeddedContent"
+            },
+            "pointsOfInterest": [
+                {
+                    "title": "Wolvercote Primary School",
+                    "address": "First Turn, Wolvercote",
+                    "type": "uk_school_primary",
+                    "latitude": 51.785259,
+                    "longitude": -1.280108,
+                    "distanceMiles": 0.1,
+                    "__typename": "PointOfInterest"
+                },
+                {
+                    "title": "d'Overbroeck's",
+                    "address": "333 Banbury Road",
+                    "type": "uk_school_secondary",
+                    "latitude": 51.783171,
+                    "longitude": -1.268225,
+                    "distanceMiles": 0.4,
+                    "__typename": "PointOfInterest"
+                },
+                {
+                    "title": "Oxford Parkway",
+                    "address": null,
+                    "type": "national_rail_station",
+                    "latitude": 51.8042,
+                    "longitude": -1.2745,
+                    "distanceMiles": 1.3,
+                    "__typename": "PointOfInterest"
+                },
+                {
+                    "title": "Oxford",
+                    "address": null,
+                    "type": "national_rail_station",
+                    "latitude": 51.753501,
+                    "longitude": -1.270151,
+                    "distanceMiles": 2.2,
+                    "__typename": "PointOfInterest"
+                }
+            ],
+            "priceHistory": {
+                "firstPublished": {
+                    "firstPublishedDate": "2025-01-16T17:15:54",
+                    "priceLabel": "\u00a3500,000",
+                    "__typename": "PriceHistoryFirstPublished"
+                },
+                "lastSale": null,
+                "priceChanges": [
+                    {
+                        "isMinorChange": false,
+                        "isPriceDrop": true,
+                        "isPriceIncrease": false,
+                        "percentageChangeLabel": "5",
+                        "priceChangeDate": "2025-05-22T09:53:07",
+                        "priceChangeLabel": "\u00a325,000",
+                        "priceLabel": "\u00a3475,000",
+                        "__typename": "PriceHistoryChange"
+                    }
+                ],
+                "__typename": "PriceHistory"
+            },
+            "displayAddress": "Davenant Road, Oxford OX2",
+            "section": "for-sale",
+            "featurePreview": [
+                {
+                    "iconId": "bed",
+                    "content": 2,
+                    "__typename": "Feature"
+                },
+                {
+                    "iconId": "bath",
+                    "content": 1,
+                    "__typename": "Feature"
+                },
+                {
+                    "iconId": "chair",
+                    "content": 1,
+                    "__typename": "Feature"
+                }
+            ],
+            "imagePreview": {
+                "caption": null,
+                "src": "https://lid.zoocdn.com/645/430/3d1fb5c77a2bcdd198a88ddd778e655ffd61ed09.jpg",
+                "__typename": "Image"
+            },
+            "tags": [
+                {
+                    "label": "Share of Freehold",
+                    "__typename": "ListingTag"
+                }
+            ],
+            "transports": [
+                {
+                    "distanceInMiles": 3.2,
+                    "poiType": "national_rail_station",
+                    "title": "Islip",
+                    "__typename": "Transport"
+                },
+                {
+                    "distanceInMiles": 5,
+                    "poiType": "national_rail_station",
+                    "title": "Hanborough",
+                    "__typename": "Transport"
+                },
+                {
+                    "distanceInMiles": 5.9,
+                    "poiType": "national_rail_station",
+                    "title": "Combe (Oxon)",
+                    "__typename": "Transport"
+                },
+                {
+                    "distanceInMiles": 6.7,
+                    "poiType": "national_rail_station",
+                    "title": "Tackley",
+                    "__typename": "Transport"
+                },
+                {
+                    "distanceInMiles": 7,
+                    "poiType": "national_rail_station",
+                    "title": "Radley",
+                    "__typename": "Transport"
+                },
+                {
+                    "distanceInMiles": 9.3,
+                    "poiType": "national_rail_station",
+                    "title": "Culham",
+                    "__typename": "Transport"
+                },
+                {
+                    "distanceInMiles": 9.3,
+                    "poiType": "national_rail_station",
+                    "title": "Bicester Village",
+                    "__typename": "Transport"
+                },
+                {
+                    "distanceInMiles": 9.3,
+                    "poiType": "national_rail_station",
+                    "title": "Heyford",
+                    "__typename": "Transport"
+                }
+            ],
+            "publishedOn": "2025-01-16T17:15:54",
+            "numberOfImages": 18,
+            "statusSummary": {
+                "label": "Under offer",
+                "__typename": "ListingStatusSummary"
+            }
+        }
+    },
+    "extensions": {
+        "requestId": "9ec30f14-3507-41f3-8e59-060aeb9399c8"
+    }
+}
